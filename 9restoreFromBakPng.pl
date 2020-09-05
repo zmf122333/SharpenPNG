@@ -1,7 +1,7 @@
 #!/usr/bin/perl -w
 use File::Basename;
 
-my $suffix="png_smooth";    #pic suffix.
+my $suffix="png_smooth";        #pic suffix.
 my $type="";			#HD,SMOOTH,FAST
 my $destDir="C:\\Users\\Administrator\\Desktop\\sharpenPNG\\png2";
 my $basedir=dirname(__FILE__);
